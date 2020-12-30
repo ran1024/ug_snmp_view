@@ -1,6 +1,6 @@
 #ug_snmp_view
 <p align="center">
-<h2>Опрос UTM UserGate по SNMP.</h2>
+<h2 align="center">Опрос UTM UserGate по SNMP.</h2>
 <img src="utm.png">
 </p>
 Программа предназначена для оперативного получения текущего состояния Межсетевого экрана UserGate.
