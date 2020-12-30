@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Опрос UTM UserGate по SNMP.</title>
-</head>
-<body>
+#ug_snmp_view
+<p align="center">
+<h2>Опрос UTM UserGate по SNMP.</h2>
+<img src="utm.png">
+</p>
 Программа предназначена для оперативного получения текущего состояния Межсетевого экрана UserGate.
 Опрос производиться по SNMP. Выводяться следующие параметры:
 - загрузка процессора;
