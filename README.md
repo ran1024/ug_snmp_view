@@ -1,4 +1,3 @@
-# ug_snmp_view
 <!DOCTYPE html>
 <html>
 <head>
